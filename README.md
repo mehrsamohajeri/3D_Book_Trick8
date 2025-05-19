@@ -4,7 +4,7 @@
 
 https://github.com/Mehrsa-Mohajeri-Developer/3D_Book_Trick8/assets/145048780/f066b583-2427-411b-b26b-d63fc655ab69
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/3D_Book_Trick8/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/3D_Book_Trick8/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
